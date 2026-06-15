@@ -1,0 +1,22 @@
+# Employee Attendance Management System
+
+## Overview
+
+The Employee Attendance Management System is a C++ application developed using Object-Oriented Programming (OOP) concepts to efficiently manage employee records and attendance data.
+
+## Features
+
+* Add employee records
+* Update employee attendance
+* View attendance records
+* Search employee information
+* Manage employee data efficiently
+
+## Technologies Used
+
+* C++
+* Object-Oriented Programming (OOP)
+
+## Author
+
+Muqaddas Zaheer Ahmad
